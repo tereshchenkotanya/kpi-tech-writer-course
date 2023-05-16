@@ -2,7 +2,27 @@
 
 This repository stores the README files provided by KPI students. Please provide your `README.md` files and store them in separate folders with your name and surname, for example `ivan-cheban/README.md`. Follow [these best practices](https://learn.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops) for creating README files.
 
-Please find below an example of the README file for ASP.NET Core.
+## How to add files to this repository
+
+To add your folder and README file:
+
+1. Clone this repo:
+
+    ```sh
+    git clone https://github.com/ivancheban/kpi-tech-writer-course.git
+    ```
+
+1. Open the `kpi-tech-writer-course` project folder in your IDE, for example in Visual Studio Code.
+
+1. Add a folder with your name and surname.
+
+1. In this folder, add a `README.md` file.
+
+1. Create a PR (pull request) to push your changes to the remote repo: https://github.com/ivancheban/kpi-tech-writer-course.
+
+    When you create a PR, we'll be notified via email. After we merge your changes, the folder with your name containing the README file should appear in the repository.
+
+Please find below an example of the README file for ASP.NET Core. You can use it as a template for your README file.
 
 ASP.NET Core
 ============
