@@ -1,10 +1,10 @@
 # **Flo Health - Period Tracker User Documentation**
-<img src= "img/flo.png" alt= “” width="950" height="300">
+<img src= "img/flo.png" alt= “” width="1000" height="500">
 
 ### Welcome to Flo Health - Period Tracker, your personal mobile app for tracking your menstrual cycle, fertility, and overall reproductive health. This user documentation will guide you through the various features and functionalities of the Flo Health - Period Tracker mobile app. Let's get started!
 <br />
 
-<img src="img/floo.png" alt= “” width="950" height="117">
+<img src="img/floo.png" alt= “” width="950" height="190">
 
 <br />
 <br />
