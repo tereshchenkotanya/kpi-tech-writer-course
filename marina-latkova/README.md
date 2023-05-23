@@ -26,15 +26,27 @@
 
 1. Open your device's application store. For iOS devices, this would be the Apple App Store, and for Android devices, it would be the Google Play Store.
 
+<img src="img/appStore.png" alt= “” width="100" height="100">
+<img src="img/googleStore.png" alt= “100” width="" height="100">
+
 2. Search for "Flo Health - Period Tracker" in the application store's search bar. Make sure you have an active internet connection for the search to work properly.
+   
+<img src="img/floSearch.png" alt= “” width=" " height="100">
+<img src="img/floSearchAndroid.png" alt= “” width=" " height="100">
 
-3. Once you find the Flo Health - Period Tracker app in the search results, tap it to open the app's details page. Review the app's description, ratings, and reviews to ensure it meets your requirements.
+1. Once you find the Flo Health - Period Tracker app in the search results, tap it to open the app's details page. Review the app's description, ratings, and reviews to ensure it meets your requirements.
 
-4. On the app's details page, you should see an "Install" or "Get" button. Tap it to initiate the download and installation process. Depending on your device's settings, you may be prompted to enter your Apple ID password (on iOS) or confirm installation permissions (on Android).
+2. On the app's details page, you should see an "Install" or "Get" button. Tap it to initiate the download and installation process. Depending on your device's settings, you may be prompted to enter your Apple ID password (on iOS) or confirm installation permissions (on Android).
 
-5. Wait for the download and installation process to complete. This may take a few moments, depending on your internet connection speed.
+<img src="img/floGet.png" alt= “” width="200" height="315">
+<img src="img/floGetAndroid.png" alt= “” width="400" height="315">
 
-6. Once the app is installed, you can find its icon on your device's home screen or in the app drawer. Tap the app's icon to launch Flo Health - Period Tracker.
+3. Wait for the download and installation process to complete. This may take a few moments, depending on your internet connection speed.
+
+4. Once the app is installed, you can find its icon on your device's home screen or in the app drawer. Tap the app's icon to launch Flo Health - Period Tracker.
+5. 
+<img src="img/floDesktop.png" alt= “” width="" height="315">
+<img src="img/floDesktopAndroid.png" alt= “” width="" height="315">
 
 <br />
 
