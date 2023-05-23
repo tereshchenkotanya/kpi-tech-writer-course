@@ -34,16 +34,16 @@
 <img src="img/floSearch.png" alt= “” width=" " height="100">
 <img src="img/floSearchAndroid.png" alt= “” width=" " height="100">
 
-1. Once you find the Flo Health - Period Tracker app in the search results, tap it to open the app's details page. Review the app's description, ratings, and reviews to ensure it meets your requirements.
+3. Once you find the Flo Health - Period Tracker app in the search results, tap it to open the app's details page. Review the app's description, ratings, and reviews to ensure it meets your requirements.
 
-2. On the app's details page, you should see an "Install" or "Get" button. Tap it to initiate the download and installation process. Depending on your device's settings, you may be prompted to enter your Apple ID password (on iOS) or confirm installation permissions (on Android).
+4. On the app's details page, you should see an "Install" or "Get" button. Tap it to initiate the download and installation process. Depending on your device's settings, you may be prompted to enter your Apple ID password (on iOS) or confirm installation permissions (on Android).
 
 <img src="img/floGet.png" alt= “” width="200" height="315">
 <img src="img/floGetAndroid.png" alt= “” width="400" height="315">
 
-3. Wait for the download and installation process to complete. This may take a few moments, depending on your internet connection speed.
+5. Wait for the download and installation process to complete. This may take a few moments, depending on your internet connection speed.
 
-4. Once the app is installed, you can find its icon on your device's home screen or in the app drawer. Tap the app's icon to launch Flo Health - Period Tracker.
+6. Once the app is installed, you can find its icon on your device's home screen or in the app drawer. Tap the app's icon to launch Flo Health - Period Tracker.
    
 <img src="img/floDesktop.png" alt= “” width="" height="315">
 <img src="img/floDesktopAndroid.png" alt= “” width="" height="315">
@@ -53,10 +53,18 @@
 > ## **2. Entering menstrual cycle data**
 <br />
 
-* To accurately track your menstrual cycle, enter the start and end dates of your periods.
-* Tap the **+** icon on the calendar and select the start date of your period.
-* If your period lasts multiple days, adjust the duration accordingly.
-* Click **Save** and your period will be recorded on the calendar.
+1. To accurately track your menstrual cycle, enter the start and end dates of your periods.
+   
+
+
+2. Tap the **Edit period dates** icon on the calendar and select the start date of your period.
+
+<img src="img/periodEdit.png" alt= “” width="350" height="">
+
+3. If your period lasts multiple days, adjust the duration accordingly.
+4. Click **Save** and your period will be recorded on the calendar.
+
+<img src="img/periodCalendar.png" alt= “” width="250" height="">
 
 <br />
 
@@ -67,15 +75,23 @@
 * The app calculates the average length of your cycle based on your entered data and predicts future periods.
 * Tap a specific date to view more detailed information about that day, including symptoms and moods.
 
+<img src="img/trackingCycle.png" alt= “” width="150" height="">
+
 <br />
 
 > ## **4. Recording symptoms and moods**
 <br />
 
-* Flo Health - Period Tracker allows you to record and track various symptoms and moods throughout your cycle.
-* Tap the **+** icon on the calendar or the **Add** button on the symptoms page to record a new symptom or mood.
-* Choose from a wide range of predefined symptoms or add custom ones.
-* You can also rate the intensity of symptoms and add notes for reference.
+  Flo Health - Period Tracker allows you to record and track various symptoms and moods throughout your cycle.
+1. Tap the **+** icon on the calendar or the **Add** button on the symptoms page to record a new symptom or mood.
+
+<img src="img/symptomsButton.png" alt= “” width="150" height="">
+
+2. Choose from a wide range of predefined symptoms or add custom ones.
+
+<img src="img/symptomsS.png" alt= “” width="150" height="">
+
+ You can also rate the intensity of symptoms and add notes for reference.
 
 <br />
 
@@ -95,6 +111,8 @@
 * Adjust settings related to notifications, reminders, cycle length, and period predictions.
 * You can also enable or disable specific features like symptom tracking or birth control tracking.
 * Take some time to explore the settings and make adjustments as needed.
+
+<img src="img/settings.png" alt= “” width="250" height="">
 
 > ## **7. Troubleshooting**
 <br />
