@@ -2,10 +2,6 @@
 
 AliExpress is a popular online marketplace where you can find a wide variety of products at affordable prices. Whatever you are looking for, AliExpress offers a huge selection from sellers around the world. If you are new to AliExpress, this guide will help you get started and make the most of your shopping experience.
 
-## Table of contents
-
-[TOC]
-
 ## Step 1: Create an Account
 
 1. Visit the [AliExpress website](https://www.aliexpress.com/).
@@ -38,7 +34,7 @@ Once you have created an account and logged in, you can start browsing for produ
 
 After performing a search or selecting a category, you will see the search results page. To refine your search, use the available filters located at the top and left of the page. You can filter products by price range, rating, brand, shipping country, and more. Select the desired filters to narrow down your options and find the products that best suit your needs.
 
-![ ](https://i.ibb.co/WkPXSLH/image.png)
+![ ](https://i.ibb.co/C2BHM3P/screen5.png)
 
 ## Step 4: Product Selection
 
