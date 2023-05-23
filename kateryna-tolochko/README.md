@@ -12,11 +12,9 @@ AliExpress is a popular online marketplace where you can find a wide variety of 
 
 3. After clicking, you should see a registration form and different options for signing up through social media accounts. Select your preferred method.
 
-![Registration form](https://i.ibb.co/GdD2rWf/screen6.jpg)
+   3a. If you choose to sign up through your social media accounts, you will be redirected to a page where you will need to give AliExpress permission to access your account information. Follow the on-screen instructions to complete the process.
 
-3a. If you chose to sign up through your social media accounts, you will be redirected to a page where you will need to give AliExpress permission to access your account information. Follow the on-screen instructions to complete the process.
-
-3b. If you choose to sign up using your email, fill out the form. Input your valid email, password (6-20 symbols) and click **Create Account**. Check your email box and find the letter from AliExpress. Click the verification link provided in the email to verify your account. If you did not receive email with account verification link, please check your spam folder.
+   3b. If you choose to sign up using your email, fill out the form. Input your valid email, password (6-20 symbols) and click **Create Account**. Check your email box and find the letter from AliExpress. Click the verification link provided in the email to verify your account. If you did not receive email with account verification link, please check your spam folder.
 
 4. Once your account is successfully verified, you will be directed to the AliExpress website. You will be asked to provide additional information, such as your name and shipping address. Fill in the required fields accurately.
 
