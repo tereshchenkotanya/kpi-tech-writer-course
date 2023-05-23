@@ -2,7 +2,7 @@
 
 AliExpress is a popular online marketplace where you can find a wide variety of products at affordable prices. Whatever you are looking for, AliExpress offers a huge selection from sellers around the world. If you are new to AliExpress, this guide will help you get started and make the most of your shopping experience.
 
-## Step 1: Create an account
+## Step 1. Create an account
 
 1. Visit the [AliExpress website](https://www.aliexpress.com/).
 
@@ -20,19 +20,19 @@ AliExpress is a popular online marketplace where you can find a wide variety of 
 
 4. Once your account is successfully verified, you will be directed to the AliExpress website. You will be asked to provide additional information, such as your name and shipping address. Fill in the required fields accurately.
 
-## Step 2: Browse products
+## Step 2. Browse products
 
 Once you have created an account and logged in, you can start browsing for products. To search for a specific item, use the search bar located at the top of the page. Enter relevant keywords or product name and click the search icon. Alternatively, you can explore the various categories and subcategories available on the homepage to discover products of interest. Hover over a category to view subcategories and click the desired category to view products within it.
 
 ![Categories and subcategories](https://i.ibb.co/XY0ZBkz/screen2.png)
 
-## Step 3: Refine your search
+## Step 3. Refine your search
 
 After performing a search or selecting a category, you will see the search results page. To refine your search, use the available filters located at the top and left of the page. You can filter products by price range, rating, brand, shipping country, and more. Select the desired filters to narrow down your options and find the products that best suit your needs.
 
 ![Filters](https://i.ibb.co/C2BHM3P/screen5.png)
 
-## Step 4: Select a product
+## Step 4. Select a product
 
 1. When you find a product that interests you, click it to view the product details page.
 
@@ -40,7 +40,7 @@ After performing a search or selecting a category, you will see the search resul
 
 3. If the product has different variations (e.g., size, color), make sure to select the desired options before proceeding.
 
-## Step 5: Place an order
+## Step 5. Place an order
 
 1. On the product details page, click **Buy Now**.
 
@@ -50,7 +50,7 @@ After performing a search or selecting a category, you will see the search resul
 
 4. Click **Place Order**.
 
-## Step 6: Track your order
+## Step 6. Track your order
 
 After your payment is confirmed, the seller will prepare your order for shipment. Once the seller ships your order, you will be able to track the progress of your order.
 
@@ -62,7 +62,7 @@ After your payment is confirmed, the seller will prepare your order for shipment
 
 3. You will now be able to see the current status of your order and the AliExpress tracking number.
 
-## Step 7: Confirm receipt
+## Step 7. Confirm receipt
 
 Once you receive your order and are satisfied with the products, confirm the receipt on AliExpress.
 
@@ -74,7 +74,7 @@ Once you receive your order and are satisfied with the products, confirm the rec
 
 4. If you are ready to confirm delivery and have physically received your order, click **Confirm** to complete this step.
 
-## Step 8: Resolve issues
+## Step 8. Resolve issues
 
 If you received damaged items, incorrect sizing, or experienced non-delivery, you can open a dispute until the buyer protection term expires.
 
