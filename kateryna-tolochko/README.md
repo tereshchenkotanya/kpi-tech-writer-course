@@ -8,7 +8,7 @@ AliExpress is a popular online marketplace where you can find a wide variety of 
 
 ## Step 1: Create an Account
 
-1. Visit the [AliExpress website](https://www.aliexpress.com/?spm=a2g0o.best.1000002.1.38992c25be7aoS).
+1. Visit the [AliExpress website](https://www.aliexpress.com/).
 
 2. Find **Join Free** button and click it.
 
