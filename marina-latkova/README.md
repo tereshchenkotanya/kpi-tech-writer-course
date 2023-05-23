@@ -9,19 +9,19 @@
 <br />
 <br />
 
- > ## **Table of Contents**
+ > ## **Table of contents**
  <br />
 
-1. Installation and Account Setup
-2. Entering Menstrual Cycle Data
-3. Tracking Menstrual Cycle
-4. Recording Symptoms and Moods
-5. Health Insights and Articles
-6. Settings and Customization
-7.  Troubleshooting  
+1. Installation and account setup
+2. Entering menstrual cycle data
+3. Tracking menstrual cycle
+4. Recording symptoms and moods
+5. Health insights and articles
+6. Settings and customization
+7. Troubleshooting
 <br />
 
-> ## **1. Installation and Account Setup:**
+> ## **1. Installation and account setup:**
 <br />
 
 * Download and install Flo Health - Period Tracker from your device's app store (available for both iOS and Android).
@@ -40,7 +40,7 @@
 
 <br />
 
-> ## **3. Tracking Menstrual Cycle:**
+ > ## **3. Tracking menstrual cycle:**
 <br />
 
 * The calendar view displays your menstrual cycle, fertility window, and predicted ovulation dates.
@@ -49,7 +49,7 @@
 
 <br />
 
-> ## **4. Recording Symptoms and Moods:**
+> ## **4. Recording symptoms and moods:**
 <br />
 
 * Flo Health - Period Tracker allows you to record and track various symptoms and moods throughout your cycle.
@@ -59,7 +59,7 @@
 
 <br />
 
-> ## **5. Health Insights and Articles:**
+> ## **5. Health Insights and articles:**
 <br />
 
 * Flo Health - Period Tracker offers a wealth of information and educational resources about women's health.
@@ -68,7 +68,7 @@
   
 <br />
 
-> ## **6. Settings and Customization:**
+> ## **6. Settings and customization:**
 <br />
 
 * Explore the app's settings to customize your experience and personalize the app according to your preferences.
