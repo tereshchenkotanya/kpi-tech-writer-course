@@ -18,7 +18,7 @@ important messages. The rating of each post is defined by the popularity of the 
 ## Get started
 1. Clone the server part: git clone https://github.com/Denys209818/DiplomaWork.git
 2. Clone the client part: https://github.com/Denys209818/DiplomaWorkFront.git
-3. Publish publish these projects using embedded vs functions or just use special commands ```dotnet publish```, ```npm publish```.
+3. Publish these projects using embedded vs functions or just use special commands ``dotnet publish``, ``npm publish``.
 
 
 ## For developers
