@@ -1,4 +1,4 @@
-# Getting started with HDRezka
+# Getting started with [HDRezka](https://rezka.ag)
 
 HDRezka is a website that allows you to watch your favorite movies and series. If you need a guide for signing in, you're in the right place.
 
