@@ -1,31 +1,42 @@
-# Getting started with [HDRezka](https://rezka.ag)
+# Getting started with HDRezka
 
-HDrezka is a site, that allows you to watch your favourite movies and series. If you need guide for Sign In, you're in right file.
+HDRezka is a website that allows you to watch your favorite movies and series. If you need a guide for signing in, you're in the right place.
 
-***Movies? HDRezka!***
+**Movies? HDRezka!**
 
 ## Step 1: Registration
-1. Firstly visit [HDRezka](https://rezka.ag) site
-     This is how it looks like 
-     ![Photo of site](https://ibb.co/JxMxSZ1)
 
-2. Then you need to register, for registration click button that callet **"Регистрация"**
-    ![Register Button](https://ibb.co/ScJ26s2)
-3. Then there pop-ups a registration window, you need to enter your *Login*, *E-Mail* and *Password*
-    ![Registration Window](https://ibb.co/qjV8S82)
-4. Click big blue button "РЕГИСТРАЦИЯ"
-5. Hurray! We're in, ***now*** we can ***watch all*** of ***movies*** that are available on site.
+1. Firstly, visit the HDRezka website at [HDRezka](https://rezka.ag).
+   This is how it looks like:
+   ![Screenshot of the HDRezka website](https://ibb.co/JxMxSZ1)
+
+2. To register, click the button labeled **"Регистрация"** (Registration).
+   ![Register Button](https://ibb.co/ScJ26s2)
+
+3. A registration window will pop up. Enter your *Login*, *E-Mail*, and *Password*.
+   ![Registration Window](https://ibb.co/qjV8S82)
+
+4. Click the big blue button labeled "РЕГИСТРАЦИЯ" (Registration).
+
+5. Hurray! You are now registered and can start watching all the movies available on the site.
+
 ## Step 2: Searching
 
-1. You need to find search bar, it placed under "Профиль" button, earlier there was a "Регистрация" button
-    ![Search Bar](https://ibb.co/vPZyqSN)
-2. Now you can search for movies and series, let's try it. For example i'll try to search `Titanic`
-3. This is how results looks like
-    ![Results: Titanic](https://ibb.co/88m17jD)
+1. Locate the search bar, which is placed under the "Профиль" (Profile) button. Previously, it was the "Регистрация" (Registration) button.
+   ![Search Bar](https://ibb.co/vPZyqSN)
+
+2. Now you can search for movies and series. Let's try searching for "Titanic," for example.
+
+3. This is how the search results will look like:
+   ![Results: Titanic](https://ibb.co/88m17jD)
+
 ## Step 3: Final step
-Now, when you've found movie that you need you need to choose translation on your taste and start watching movie
-After you clicked on result that you were looking for you find a page of a movie, you need to scroll down to see player. It look like this
+
+Now that you've found the movie you were looking for, you need to choose a translation to your liking and start watching the movie.
+
+After clicking on the search result, you will be taken to the movie's page. Scroll down to see the player. It will look like this:
 ![Player: Titanic](https://ibb.co/fnGFFn0)
 
-Your last step is to choose translation and then you're ready to begin watching movie
+Your last step is to choose a translation, and then you're ready to begin watching the movie.
+
 ### Enjoy!
