@@ -25,7 +25,7 @@ HDRezka is a website that allows you to watch your favorite movies and series. I
 1. Locate the search bar, which is placed under the "Профиль" (Profile) button. Previously, it was the "Регистрация" (Registration) button.
    ![Search Bar](https://ibb.co/vPZyqSN)
 
-2. Now you can search for movies and series. Let's try searching for "Titanic," for example.
+2. Now you can search for movies and series. Let's try searching for `Titanic` for example.
 
 3. This is how the search results will look like:
    ![Results: Titanic](https://ibb.co/88m17jD)
