@@ -1,12 +1,15 @@
-#Epic Games Launcher Documentation
+# Epic Games Launcher Documentation
+
 <a href="https://ibb.co/BrbpY74"><img src="https://i.ibb.co/Nm5vGk1/Epic-Games-Logo.jpg" alt="Epic-Games-Logo" border="0" /></a>
 
 Welcome to the documentation for Epic Games Launcher! This guide will provide you with the necessary information to get started with the launcher and make the most out of its features.
 
-##Introduction
+## Introduction
+
 Epic Games Launcher is a digital distribution platform developed by Epic Games. It serves as a hub for accessing and managing games, as well as providing additional features such as game updates, social networking, and community features. The launcher is primarily used to access and play games developed or published by Epic Games.
 
-##Requirements
+## Requirements
+
 Before using Epic Games Launcher, please ensure that you meet the following requirements:
 
 •	A stable internet connection.
@@ -17,9 +20,11 @@ Installation
 To install [Epic Games Launcher](https://store.epicgames.com/en-US/?lang=en-US), follow the steps below:
 1.	Visit the Epic Games website in your web browser.
 2.	Click on the "*Get Epic Games*" button located on the top-right corner of the website.
+
  <a href="https://imgbb.com/"><img src="https://i.ibb.co/8g8YwMT/download.png" alt="download" border="0" /></a>
 
 3. Click on the download button for your operating system (Windows or macOS).
+
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/hC9d6Lc/download2.png" alt="download2" border="0" /></a>
  
 4.	Once the installer file is downloaded, run the file and follow the on-screen instructions to complete the installation process.
@@ -52,7 +57,7 @@ If the game is free:
 •	Find the tile of the downloaded game in your library.
 7.	To launch and play the game, click on the game's tile in your library.
 
-##Support and Assistance
+## Support and Assistance
 
 If you encounter any issues or have questions regarding Epic Games Launcher, you can seek assistance through the following channels:
 
