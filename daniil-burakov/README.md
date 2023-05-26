@@ -29,7 +29,7 @@ To install [Epic Games Launcher](https://store.epicgames.com/en-US/?lang=en-US),
  
 4.	Once the installer file is downloaded, run the file and follow the on-screen instructions to complete the installation process.
 
-##Getting Started
+## Getting Started
 
 After installing Epic Games Launcher, follow the steps below to get started:
 
@@ -37,24 +37,42 @@ After installing Epic Games Launcher, follow the steps below to get started:
 2.	If you already have an Epic Games account, enter your login credentials (email and password) and click "*Sign In*." If you don't have an account, click "Create Account" to register.
 3.	After signing in, you will be greeted with the launcher's home screen, which displays featured games, news, and promotions. You can browse and select games to download and play from the store.
 4.	To download a game, there are two methods you can use:
+
 **Method 1**:
+
 •	Click on the "*STORE*" button located in the navigation menu.
+
 •	Browse through the available games or use the search bar at the top of the launcher to find a specific game.
+
 •	Click on the tile of the game you want to download.
+
 **Method 2**:
+
 •	Use the search bar at the top of the launcher to directly search for the game you want to download.
+
 •	Click on the tile of the game in the search results.
+
 5.	On the game's page, there are different options depending on whether the game is free or requires a purchase:
 If the game is free:
+
 •	Click the "*Get*" or "*Play Game*" button to initiate the download process.
+
 •	If prompted, confirm any additional permissions or agreements.
+
 •	If the game requires a purchase:
+
 •	Click the "*Buy*" button.
+
 •	If prompted, choose the edition or package you want to purchase.
+
 •	Follow the on-screen instructions to complete the purchase, including providing payment information if required.
+
 6.	Once the download is complete, the game will be available in your library. To access your library:
+
 •	Click on the "*LIBRARY*" button located in the navigation menu.
+
 •	Find the tile of the downloaded game in your library.
+
 7.	To launch and play the game, click on the game's tile in your library.
 
 ## Support and Assistance
@@ -62,4 +80,5 @@ If the game is free:
 If you encounter any issues or have questions regarding Epic Games Launcher, you can seek assistance through the following channels:
 
 •	[Epic Games Support](https://www.epicgames.com/help/en-US/?lang=en-US): Visit the Epic Games Support website for help articles, FAQs, and contact options.
+
 •	[Community Forums](https://dev.epicgames.com/community/): Engage with the Epic Games community by participating in the official forums.
