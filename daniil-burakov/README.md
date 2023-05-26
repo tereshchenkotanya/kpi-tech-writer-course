@@ -16,7 +16,8 @@ Before using Epic Games Launcher, please ensure that you meet the following requ
 
    •	A compatible operating system (Windows 7 or later, macOS 10.12 or later).
 
-Installation
+## Installation
+
 To install [Epic Games Launcher](https://store.epicgames.com/en-US/?lang=en-US), follow the steps below:
 1.	Visit the Epic Games website in your web browser.
 2.	Click on the "*Get Epic Games*" button located on the top-right corner of the website.
@@ -33,9 +34,9 @@ To install [Epic Games Launcher](https://store.epicgames.com/en-US/?lang=en-US),
 
 After installing Epic Games Launcher, follow the steps below to get started:
 
-1.	Launch Epic Games Launcher by double-clicking the shortcut icon on your desktop or searching for "Epic Games Launcher" in your applications folder.
+1.	Launch Epic Games Launcher by double-clicking the shortcut icon on your desktop or searching for "*Epic Games Launcher*" in your applications folder.
 
-2.	If you already have an Epic Games account, enter your login credentials (email and password) and click "*Sign In*." If you don't have an account, click "Create Account" to register.
+2.	If you already have an Epic Games account, enter your login credentials (email and password) and click "*Sign In*." If you don't have an account, click "*Create Account*" to register.
 
 3.	After signing in, you will be greeted with the launcher's home screen, which displays featured games, news, and promotions. You can browse and select games to download and play from the store.
 
