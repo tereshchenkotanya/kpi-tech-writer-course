@@ -20,7 +20,7 @@ Before you can start working with Unreal Engine, you need to install it on your 
 
 ## Get started
 
-Follow the getting started instructions [here](https://www.unrealengine.com/en-US/support)
+Follow the getting started instructions [here](https://www.unrealengine.com/en-US/support).
 
 ## Learning resourses
 
