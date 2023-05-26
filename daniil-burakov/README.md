@@ -22,11 +22,11 @@ To install [Epic Games Launcher](https://store.epicgames.com/en-US/?lang=en-US),
 1.	Visit the Epic Games website in your web browser.
 2.	Click on the `Get Epic Games` button located on the top-right corner of the website.
 
- <a href="https://imgbb.com/"><img src="https://i.ibb.co/8g8YwMT/download.png" alt="download" border="0" /></a>
+    <a href="https://imgbb.com/"><img src="https://i.ibb.co/8g8YwMT/download.png" alt="download" border="0" /></a>
 
 3. Click on the download button for your operating system (Windows or macOS).
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/hC9d6Lc/download2.png" alt="download2" border="0" /></a>
+    <a href="https://imgbb.com/"><img src="https://i.ibb.co/hC9d6Lc/download2.png" alt="download2" border="0" /></a>
  
 4.	Once the installer file is downloaded, run the file and follow the on-screen instructions to complete the installation process.
 
