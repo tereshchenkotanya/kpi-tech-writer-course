@@ -26,7 +26,7 @@ To install [Epic Games Launcher](https://store.epicgames.com/en-US/?lang=en-US),
 3. Click on the download button for your operating system (Windows or macOS).
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/hC9d6Lc/download2.png" alt="download2" border="0" /></a>
-
+ 
 4.	Once the installer file is downloaded, run the file and follow the on-screen instructions to complete the installation process.
 
 ## Getting Started
@@ -41,19 +41,19 @@ After installing Epic Games Launcher, follow the steps below to get started:
 
 4.	To download a game, there are two methods you can use:
 
-**Method 1**:
+    **Method 1**:
 
-   •	Click on the "*STORE*" button located in the navigation menu.
+     •	Click on the "*STORE*" button located in the navigation menu.
 
-   •	Browse through the available games or use the search bar at the top of the launcher to find a specific game.
+     •	Browse through the available games or use the search bar at the top of the launcher to find a specific game.
 
-   •	Click on the tile of the game you want to download.
+     •	Click on the tile of the game you want to download.
 
-**Method 2**:
+    **Method 2**:
 
-   •	Use the search bar at the top of the launcher to directly search for the game you want to download.
+     •	Use the search bar at the top of the launcher to directly search for the game you want to download.
 
-   •	Click on the tile of the game in the search results.
+     •	Click on the tile of the game in the search results.
 
 5.	On the game's page, there are different options depending on whether the game is free or requires a purchase:
 If the game is free:
