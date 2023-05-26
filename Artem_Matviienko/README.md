@@ -46,7 +46,7 @@ It also includes a library of movies, TV shows, cartoons, and shows. You can wat
 
 ## Step 2: Sing in
 
-### If you don't have suitable tariff plan skip this step and continue with [Step 3]()!!!!!
+### If you don't have suitable tariff plan skip this step and continue with [Step 3](#step-3-start-watching)
 
 1. Click on button **Sign in**
 <br><br>
@@ -94,7 +94,9 @@ It also includes a library of movies, TV shows, cartoons, and shows. You can wat
 
 6. Click on it to open application
 
-## Step 2: Sign in
+## Step 2: Sign in Mobile
+
+### If you don't have suitable tariff plan skip this step and continue with [Step 3](#step-3-start-watching-mobile)
 
 1. Click on "*profile*" button in navigation
 
@@ -108,7 +110,7 @@ It also includes a library of movies, TV shows, cartoons, and shows. You can wat
 
 6. Click on "*Sign in*" button
 
-## Step 3: Start watching
+## Step 3: Start watching Mobile
 
 1. Click on *magnifying glass icon* in navigation
 
