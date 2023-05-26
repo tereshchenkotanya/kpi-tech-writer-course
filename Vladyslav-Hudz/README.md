@@ -2,7 +2,7 @@
 
 This document will provide you with the initial instructions for using Arduino and getting started with the platform.
 
-Read an [introduction](https://www.arduino.cc/en/Guide/Introduction) on what is Arduino and why you'd want to use it.
+Read an [introduction](https://www.arduino.cc/en/Guide/Introduction) on what Arduino is and why you'd want to use it.
 
 ## Requirements
 
@@ -12,18 +12,13 @@ Before getting started, you will need:
 - A computer with Arduino IDE installed
 - A USB cable to connect Arduino to the computer
 
-## Step 1: Installing arduino IDE
+## Step 1: Installing Arduino IDE
 
 1. Visit the official Arduino website at [arduino.cc/software](https://www.arduino.cc/en/software).
 2. Download the Arduino IDE from the "Downloads" page.
 3. Install the Arduino IDE on your computer by following the [instructions](https://docs.arduino.cc/software/ide-v2/tutorials/getting-started/ide-v2-downloading-and-installing) for your operating system.
 
-## Step 2: Connecting arduino
-
-1. Launch the Arduino IDE.
-2. Connect Arduino to your computer using the USB cable.
-
-## Overview
+## Arduino IDE user interface overview
 
 <center>
 <img src="picture/overview.png" title="Сontrol elements" width="900">
@@ -37,6 +32,11 @@ Before getting started, you will need:
 - Debugger - test and debug programs in real time.
 - Search - search for keywords in your code.
 - Open Serial Monitor - opens the Serial Monitor tool, as a new tab in the console.
+
+## Step 2: Connecting Arduino
+
+1. Launch the Arduino IDE.
+2. Connect Arduino to your computer using the USB cable.
 
 ## Step 3: Selecting the board and port
 
