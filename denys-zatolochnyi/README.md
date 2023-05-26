@@ -8,8 +8,11 @@ Financulator is a small program to calculate your daily money spending. It can h
 
 > #### Navigation
 > [1. Download](#download)
+>
 > [2. Getting Started](#getting-started)
+>
 > [3. Program Abilities](#program-abilities)
+>
 > [4. Possible problems](#possible-problems)
 
 ### Download
