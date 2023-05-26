@@ -2,7 +2,7 @@
 
 <a href="https://ibb.co/BrbpY74"><img src="https://i.ibb.co/Nm5vGk1/Epic-Games-Logo.jpg" alt="Epic-Games-Logo" border="0" /></a>
 
-### Welcome to the documentation for Epic Games Launcher! This guide will provide you with the necessary information to get started with the launcher and make the most out of its features.
+ Welcome to the documentation for Epic Games Launcher! This guide will provide you with the necessary information to get started with the launcher and make the most out of its features.
 
 ## Introduction
 
@@ -20,11 +20,13 @@ Installation
 To install [Epic Games Launcher](https://store.epicgames.com/en-US/?lang=en-US), follow the steps below:
 1.	Visit the Epic Games website in your web browser.
 2.	Click on the "*Get Epic Games*" button located on the top-right corner of the website.
+
  <a href="https://imgbb.com/"><img src="https://i.ibb.co/8g8YwMT/download.png" alt="download" border="0" /></a>
 
 3. Click on the download button for your operating system (Windows or macOS).
+
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/hC9d6Lc/download2.png" alt="download2" border="0" /></a>
- 
+
 4.	Once the installer file is downloaded, run the file and follow the on-screen instructions to complete the installation process.
 
 ## Getting Started
@@ -32,23 +34,26 @@ To install [Epic Games Launcher](https://store.epicgames.com/en-US/?lang=en-US),
 After installing Epic Games Launcher, follow the steps below to get started:
 
 1.	Launch Epic Games Launcher by double-clicking the shortcut icon on your desktop or searching for "Epic Games Launcher" in your applications folder.
+
 2.	If you already have an Epic Games account, enter your login credentials (email and password) and click "*Sign In*." If you don't have an account, click "Create Account" to register.
+
 3.	After signing in, you will be greeted with the launcher's home screen, which displays featured games, news, and promotions. You can browse and select games to download and play from the store.
+
 4.	To download a game, there are two methods you can use:
 
 **Method 1**:
 
-    •	Click on the "*STORE*" button located in the navigation menu.
+   •	Click on the "*STORE*" button located in the navigation menu.
 
-    •	Browse through the available games or use the search bar at the top of the launcher to find a specific game.
+   •	Browse through the available games or use the search bar at the top of the launcher to find a specific game.
 
-    •	Click on the tile of the game you want to download.
+   •	Click on the tile of the game you want to download.
 
 **Method 2**:
 
-    •	Use the search bar at the top of the launcher to directly search for the game you want to download.
+   •	Use the search bar at the top of the launcher to directly search for the game you want to download.
 
-    •	Click on the tile of the game in the search results.
+   •	Click on the tile of the game in the search results.
 
 5.	On the game's page, there are different options depending on whether the game is free or requires a purchase:
 If the game is free:
