@@ -40,9 +40,9 @@ Before getting started, you will need:
 
 ## Step 3: Selecting the board and port
 
-1. In the `Menu Bar` select `Tools` > `Board` > `Arduino AVR Boards`.
+1. In the `menu bar`, select `Tools` > `Board` > `Arduino AVR Boards`.
 2. Select the appropriate board.
-3. In the `Menu Bar` select `Tools` > `Port`.
+3. In the `menu bar`, select `Tools` > `Port`.
 4. Choose the correct port for your Arduino board. If you're unsure which port to select, refer to the documentation specific to your board.
 
 >You can find more information about the board on [arduino/boards](https://www.arduino.cc/en/hardware#boards)
@@ -76,7 +76,7 @@ When you launch the Arduino IDE, it opens with a default draft sketch that you c
 
 ## Additional Resources
 
-- Advice on what to do if things don't work: [Troublechooting](https://www.arduino.cc/en/Guide/Troubleshooting)
+- Advice on what to do if things don't work: [Troubleshooting](https://www.arduino.cc/en/Guide/Troubleshooting)
 - Official Arduino Documentation: [Arduino Documentation](https://docs.arduino.cc/?_gl=1*gks2yv*_ga*NzI5NDYyOTU0LjE2ODQ3Njg0OTE.*_ga_NEXN8H46L5*MTY4NDkyNzA1MS4zLjEuMTY4NDkzMTU3Ny4wLjAuMA..)
 - Arduino Forum: [Forum](https://forum.arduino.cc/)
 - Arduino Community on Reddit: [Reddit.com/arduino](https://www.reddit.com/r/arduino/)
