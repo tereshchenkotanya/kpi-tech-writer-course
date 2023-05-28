@@ -10,9 +10,14 @@ Visit the Spotify [website](https://open.spotify.com) or download the Spotify ap
 
 ## Navigating the Interface:
 
-- [Home](https://open.spotify.com):   This is your personalized music hub, featuring recommendations, recently played tracks, and playlists curated for you.
-- [Search](https://open.spotify.com/search): Use the search bar to find specific songs, artists, albums, or playlists.
-- [Your Library](https://open.spotify.com): Access your saved music, playlists, and podcasts here. You can organize your music into playlists and mark albums or tracks as favorites.
+* [Home](https://open.spotify.com):   This is your personalized music hub, featuring recommendations, recently played tracks, and playlists curated for you.
+<div><img src =img/2.jpg></div>
+
+* [Search](https://open.spotify.com/search): Use the search bar to find specific songs, artists, albums, or playlists.
+ <div><img src =img/3.jpg></div>
+ 
+* [Your Library](https://open.spotify.com): Access your saved music, playlists, and podcasts here. You can organize your music into playlists and mark albums or tracks as favorites.
+<div><img src =img/4.jpg></div>
 
 ## Discovering Music:
 
