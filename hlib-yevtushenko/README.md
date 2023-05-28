@@ -1,5 +1,5 @@
 # **Telegram - Messaging and Communication App**
-<img src="img/telegramLogo.png" alt="" width="500" height="500">
+<img src="img/telegramLogo.png" alt="" width="640" height="400">
 
 <br />
 
