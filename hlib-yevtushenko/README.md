@@ -7,7 +7,7 @@
 
 <br />
 
-<img src="img/telegramChat.png" alt="" width="600" height="600">
+<img src="img/telegramChat.jpg" alt="" width="1200" height="600">
 
 <br />
 <br />
@@ -78,7 +78,7 @@ To begin using Telegram, follow these steps to install the app on your device:
 
 1. Visit the app store on your mobile device.
 
-   <img src="img/telegramAppStore.png" alt="" width="200" height="">
+   <img src="img/telegramAppStore.jpg" alt="" width="200" height="">
 
 2. Search for "Telegram" in the search bar.
 
