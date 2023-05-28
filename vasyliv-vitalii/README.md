@@ -3,7 +3,8 @@ Spotify [![Spotify](https://img.shields.io/badge/Spotify-darkgreen.svg)](https:/
 
 <p  align="center" ><img src =img/icon.png><p/>
 
-Spotify is a popular digital music streaming [service](https://newsroom.spotify.com/stream-on-2023/) that provides access to a vast library of songs, podcasts, and other audio content. It allows users to stream music from a wide range of genres and artists, create playlists, discover new music, and share their favorite songs with others.[Learn more about Spotify](https://newsroom.spotify.com/company-info/
+Spotify is a popular digital music streaming [service](https://newsroom.spotify.com/stream-on-2023/) that provides access to a vast library of songs, podcasts, and other audio content. It allows users to stream music from a wide range of genres and artists, create playlists, discover new music, and share their favorite songs with others.
+[Learn more about Spotify](https://newsroom.spotify.com/company-info/)
 ## About Spotify
 
 Visit the Spotify [website](https://open.spotify.com) or download the Spotify app from your.Click on the "Sign Up" or "Get Started" button.Choose between signing up with your Facebook account or using your email address.Complete the registration process by providing the required information.
