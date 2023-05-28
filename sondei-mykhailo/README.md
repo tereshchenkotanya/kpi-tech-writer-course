@@ -2,7 +2,7 @@
 
 Welcome to Airbnb! This repository contains the source code for our amazing accommodation booking platform. With Airbnb, travelers can easily find and book unique accommodations around the world, while hosts can list their spaces and earn extra income.
 
-![Airbnb](https://your-image-url.com)
+![Airbnb](./img/airbnb.png)
 
 ## Features
 
