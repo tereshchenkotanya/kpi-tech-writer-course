@@ -7,7 +7,7 @@
 
 <br />
 
-<img src="img/telegramChat.png" alt="" width="600" height="">
+<img src="img/telegramChat.png" alt="" width="600" height="600">
 
 <br />
 <br />
