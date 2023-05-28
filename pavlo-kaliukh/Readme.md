@@ -3,7 +3,7 @@
 
 [![rabota.ua](https://img.shields.io/badge/rabota.ua-red.svg)](https://rabota.ua/ua)
 
-Rabota.ua is one of Ukraine's leading job search websites, connecting job seekers with employers and providing various resources for career development. Let's get started! [Here][https://about.rabota.ua/] you can learn more about this company.
+Rabota.ua is one of Ukraine's leading job search websites, connecting job seekers with employers and providing various resources for career development. Let's get started! [Here](https://about.rabota.ua/) you can learn more about this company.
 
 ## Creating an Account:
 
