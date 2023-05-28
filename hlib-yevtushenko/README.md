@@ -82,11 +82,11 @@ To begin using Telegram, follow these steps to install the app on your device:
 
 2. Search for "Telegram" in the search bar.
 
-   <img src="img/telegramSearch.png" alt="" width="200" height="">
+   <img src="img/telegramSearch.png" alt="" width="600" height="">
 
 3. Locate the Telegram app from the search results and tap on it.
 
-   <img src="img/telegramInstallation.png" alt="" width="200" height="">
+   <img src="img/telegramInstallation.png" alt="" width="500" height="">
 
 4. Tap the "Install" or "Get" button to download and install the app.
 5. Once the installation is complete, locate the Telegram app on your device's home screen or app drawer and tap on it to launch the app.
