@@ -49,10 +49,6 @@ The app does not require any additional configuration. Simply sign in with your 
 
 Contributions to the YouTube Music app are currently not open to external contributors.
 
-## License
-
-The YouTube Music App is released under the [MIT License](LICENSE).
-
 ## Acknowledgements
 
 This app is built using the following technologies:
